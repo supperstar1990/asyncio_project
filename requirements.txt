@@ -1,0 +1,5 @@
+aiohttp>=3.9.1          # 异步HTTP客户端，用于爬虫/API调用
+asyncio>=3.4.3          # Python内置异步框架
+python-dotenv>=1.0.0    # 环境变量管理（可选）
+loguru>=0.7.2           # 更友好的日志工具
+tqdm>=4.66.1            # 进度条，可视化批量任务进度
